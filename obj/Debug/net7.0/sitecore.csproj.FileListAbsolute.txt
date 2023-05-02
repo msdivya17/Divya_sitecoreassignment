@@ -1,0 +1,15 @@
+C:\sitecore\bin\Debug\net7.0\sitecore.exe
+C:\sitecore\bin\Debug\net7.0\sitecore.deps.json
+C:\sitecore\bin\Debug\net7.0\sitecore.runtimeconfig.json
+C:\sitecore\bin\Debug\net7.0\sitecore.dll
+C:\sitecore\bin\Debug\net7.0\sitecore.pdb
+C:\sitecore\obj\Debug\net7.0\sitecore.csproj.AssemblyReference.cache
+C:\sitecore\obj\Debug\net7.0\sitecore.GeneratedMSBuildEditorConfig.editorconfig
+C:\sitecore\obj\Debug\net7.0\sitecore.AssemblyInfoInputs.cache
+C:\sitecore\obj\Debug\net7.0\sitecore.AssemblyInfo.cs
+C:\sitecore\obj\Debug\net7.0\sitecore.csproj.CoreCompileInputs.cache
+C:\sitecore\obj\Debug\net7.0\sitecore.dll
+C:\sitecore\obj\Debug\net7.0\refint\sitecore.dll
+C:\sitecore\obj\Debug\net7.0\sitecore.pdb
+C:\sitecore\obj\Debug\net7.0\sitecore.genruntimeconfig.cache
+C:\sitecore\obj\Debug\net7.0\ref\sitecore.dll
